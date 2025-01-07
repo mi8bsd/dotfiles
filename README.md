@@ -1,4 +1,4 @@
-## Digital-Ocean-PHP-script-backup
+## Digital-Ocean-PHP-script-backup:
 
 Simple PHP script to snapshot droplets daily and weekly.
 
