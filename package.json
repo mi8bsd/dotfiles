@@ -9,7 +9,7 @@
     "client": "npm run serve --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "author": "Brad Traversy",
+  "author": "Michael",
   "license": "MIT",
   "dependencies": {
     "concurrently": "^4.1.1",
