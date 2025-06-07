@@ -1,8 +1,5 @@
 <?php
 
-// Created by: Abdulmogeeb AlHumaid - abdulmogeeb@gmail.com
-// licence: nothing, just use it and enjoy it.
-
 function token(){
     return 'TOKEN HERE';
 }
