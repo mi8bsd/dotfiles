@@ -1,10 +1,3 @@
-/*
- * This code was taken from this post (I did not write it):
- *
- * http://www.linuxquestions.org/questions/linux-software-2/how-to-show-desktop-in-xfce4-601161/
- *
- */
-
 #include <X11/Xatom.h>
 #include <X11/Xlib.h>
 
