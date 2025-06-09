@@ -1,0 +1,13 @@
+A simple utility that will ask X11 to minimize all the active windows so you
+can see the desktop.
+
+This is useful in situations where you'd like to programmatically toggle the
+visibility of the desktop. In my particular scenario, I use this as part of
+a larger script that's bound to a keyboard shortcut - it fires up a number
+of smaller widget-like programs on the desktop, which provides a similar
+functionality as the Mac OS dashboard feature.
+
+I did not write this code. I borrowed it from this page:
+
+http://www.linuxquestions.org/questions/linux-software-2/how-to-show-desktop-in-xfce4-601161/
+
