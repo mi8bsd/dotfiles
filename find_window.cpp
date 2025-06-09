@@ -1,8 +1,3 @@
-// Attempt to identify a window by name or attribute.
-// by Adam Pierce <adam@doctort.org>
-//
-// Taken from: http://stackoverflow.com/questions/151407/how-to-get-an-x11-window-from-a-process-id
-
 #include <X11/Xlib.h>
 #include <X11/Xatom.h>
 #include <iostream>
