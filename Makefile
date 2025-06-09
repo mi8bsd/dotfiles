@@ -1,6 +1,6 @@
 LDFLAGS = -lX11
-CC = gcc
-CX = g++
+CC = clang
+CX = clang++
 
 all:
 	$(CC) $(LDFLAGS) -o show_desktop show_desktop.c
