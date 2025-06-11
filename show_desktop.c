@@ -2,7 +2,14 @@
 // email: michael8ec@gmail.com
 // licence: nothing, just use it and enjoy it.
 /******************************************************************************
+A simple utility that will ask X11 to minimize all the active windows so you
+can see the desktop.
 
+This is useful in situations where you'd like to programmatically toggle the
+visibility of the desktop. In my particular scenario, I use this as part of
+a larger script that's bound to a keyboard shortcut - it fires up a number
+of smaller widget-like programs on the desktop, which provides a similar
+functionality as the Mac OS dashboard feature.
 *******************************************************************************/
 
 #include <X11/Xatom.h>
