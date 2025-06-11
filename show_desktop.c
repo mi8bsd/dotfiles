@@ -1,4 +1,5 @@
-// Created by: Michael Tawadros - michael8ec@gmail.com
+// Created by: Michael Tawadros 
+// email: michael8ec@gmail.com
 // licence: nothing, just use it and enjoy it.
 
 #include <X11/Xatom.h>
