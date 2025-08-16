@@ -1,0 +1,22 @@
+{
+  "recommendations": [
+    "dzhavat.bracket-pair-toggler",
+    "Vue.volar",
+    "octref.vetur",
+    "rangav.vscode-thunder-client",
+    "ms-vscode.vscode-typescript-next",
+    "ecmel.vscode-html-css",
+    "dbaeumer.vscode-eslint",
+    "AnbuselvanRocky.bootstrap5-vscode",
+    "formulahendry.auto-rename-tag",
+    "steoates.autoimport",
+    "formulahendry.auto-complete-tag",
+    "formulahendry.auto-close-tag",
+    "esbenp.prettier-vscode",
+    "raillyhugo.one-hunter",
+    "whizkydee.material-palenight-theme",
+    "ahmadawais.shades-of-purple",
+    "enkia.tokyo-night",
+    "raunofreiberg.vesper"
+  ]
+}
