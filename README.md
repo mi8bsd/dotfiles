@@ -1,1 +1,0 @@
-## simple testimonial box
