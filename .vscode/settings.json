@@ -4,6 +4,9 @@
     "source.fixAll": "explicit"
   },
   "editor.formatOnSave": true,
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.glyphMargin": false,
   "editor.folding": false,
