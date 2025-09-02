@@ -1,5 +1,10 @@
 {
   "recommendations": [
+    "stivo.tailwind-fold",
+    "bradlc.vscode-tailwindcss",
+    "qwtel.sqlite-viewer",
+    "codingyu.laravel-goto-view",
+    "IHunte.laravel-blade-wrapper",
     "dzhavat.bracket-pair-toggler",
     "Vue.volar",
     "octref.vetur",
