@@ -1,8 +1,7 @@
 {
   "recommendations": [
-    "adrianwilczynski.alpine-js-intellisense",
-    "stivo.tailwind-fold",
-    "bradlc.vscode-tailwindcss",
+    "Vue.volar",
+    "octref.vetur",
     "qwtel.sqlite-viewer",
     "codingyu.laravel-goto-view",
     "IHunte.laravel-blade-wrapper",
