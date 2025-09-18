@@ -1,33 +1,6 @@
 {
   "recommendations": [
-    "Vue.volar",
-    "octref.vetur",
-    "qwtel.sqlite-viewer",
-    "codingyu.laravel-goto-view",
-    "IHunte.laravel-blade-wrapper",
-    "dzhavat.bracket-pair-toggler",
-    "rangav.vscode-thunder-client",
-    "DEVSENSE.profiler-php-vscode",
     "bmewburn.vscode-intelephense-client",
-    "DEVSENSE.phptools-vscode",
-    "amiralizadeh9480.laravel-extra-intellisense",
-    "onecentlin.laravel-blade",
-    "shufo.vscode-blade-formatter",
-    "DEVSENSE.intelli-php-vscode",
-    "ecmel.vscode-html-css",
-    "dbaeumer.vscode-eslint",
-    "DEVSENSE.composer-php-vscode",
-    "AnbuselvanRocky.bootstrap5-vscode",
-    "formulahendry.auto-rename-tag",
-    "steoates.autoimport",
-    "formulahendry.auto-complete-tag",
-    "formulahendry.auto-close-tag",
-    "formulahendry.code-runner",
-    "esbenp.prettier-vscode",
-    "raillyhugo.one-hunter",
-    "whizkydee.material-palenight-theme",
-    "ahmadawais.shades-of-purple",
-    "enkia.tokyo-night",
-    "raunofreiberg.vesper"
+    "esbenp.prettier-vscode"
   ]
 }
