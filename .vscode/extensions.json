@@ -3,6 +3,10 @@
     "bmewburn.vscode-intelephense-client",
     "esbenp.prettier-vscode",
     "rangav.vscode-thunder-client",
-    "octref.vetur"
+    "octref.vetur",
+    "wordpresstoolbox.wordpress-toolbox",
+    "johnbillion.vscode-wordpress-hooks",
+    "dzhavat.bracket-pair-toggler",
+    "hossaini.bootstrap-intellisense"
   ]
 }
