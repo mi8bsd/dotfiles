@@ -1,4 +1,5 @@
 {
+  "php.validate.executablePath": "opt/homebrew/bin/php",
   "editor.formatOnSave": true,
   "[php]": {
     "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
