@@ -5,6 +5,10 @@
     "rangav.vscode-thunder-client",
     "octref.vetur",
     "dzhavat.bracket-pair-toggler",
-    "hossaini.bootstrap-intellisense"
+    "hossaini.bootstrap-intellisense",
+    "shufo.vscode-blade-formatter",
+    "onecentlin.laravel-blade",
+    "amiralizadeh9480.laravel-extra-intellisense",
+    "MehediDracula.php-namespace-resolver"
   ]
 }
