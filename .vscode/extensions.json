@@ -9,6 +9,7 @@
     "shufo.vscode-blade-formatter",
     "onecentlin.laravel-blade",
     "amiralizadeh9480.laravel-extra-intellisense",
-    "MehediDracula.php-namespace-resolver"
+    "MehediDracula.php-namespace-resolver",
+    "Vue.volar"
   ]
 }
