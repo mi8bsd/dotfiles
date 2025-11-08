@@ -5,11 +5,12 @@
     "rangav.vscode-thunder-client",
     "octref.vetur",
     "dzhavat.bracket-pair-toggler",
-    "hossaini.bootstrap-intellisense",
     "shufo.vscode-blade-formatter",
     "onecentlin.laravel-blade",
     "amiralizadeh9480.laravel-extra-intellisense",
     "MehediDracula.php-namespace-resolver",
-    "Vue.volar"
+    "Vue.volar",
+    "stivo.tailwind-fold",
+    "bradlc.vscode-tailwindcss"
   ]
 }
