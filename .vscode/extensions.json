@@ -9,6 +9,7 @@
     "amiralizadeh9480.laravel-extra-intellisense",
     "MehediDracula.php-namespace-resolver",
     "stivo.tailwind-fold",
-    "bradlc.vscode-tailwindcss"
+    "bradlc.vscode-tailwindcss",
+    "csstools.postcss"
   ]
 }
