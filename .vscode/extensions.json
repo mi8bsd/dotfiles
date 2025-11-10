@@ -3,13 +3,11 @@
     "bmewburn.vscode-intelephense-client",
     "esbenp.prettier-vscode",
     "rangav.vscode-thunder-client",
-    "octref.vetur",
     "dzhavat.bracket-pair-toggler",
     "shufo.vscode-blade-formatter",
     "onecentlin.laravel-blade",
     "amiralizadeh9480.laravel-extra-intellisense",
     "MehediDracula.php-namespace-resolver",
-    "Vue.volar",
     "stivo.tailwind-fold",
     "bradlc.vscode-tailwindcss"
   ]
