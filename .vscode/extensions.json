@@ -1,11 +1,8 @@
 {
   "recommendations": [
-    "bmewburn.vscode-intelephense-client",
     "esbenp.prettier-vscode",
     "rangav.vscode-thunder-client",
     "dzhavat.bracket-pair-toggler",
-    "onecentlin.laravel-blade",
-    "amiralizadeh9480.laravel-extra-intellisense",
     "bradlc.vscode-tailwindcss",
     "mikestead.dotenv",
     "burkeholland.simple-react-snippets"
