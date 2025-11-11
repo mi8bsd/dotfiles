@@ -10,6 +10,10 @@
     "MehediDracula.php-namespace-resolver",
     "stivo.tailwind-fold",
     "bradlc.vscode-tailwindcss",
-    "csstools.postcss"
+    "csstools.postcss",
+    "mikestead.dotenv",
+    "dsznajder.es7-react-js-snippets",
+    "xabikos.JavaScriptSnippets",
+    "burkeholland.simple-react-snippets"
   ]
 }
