@@ -8,5 +8,6 @@
   "editor.fontFamily": "'CaskaydiaMono Nerd Font Mono'",
   "editor.fontSize": 16,
   "editor.lineHeight": 2,
-  "workbench.colorTheme": "Solarized Light"
+  "workbench.colorTheme": "Solarized Light",
+  "css.validate": false
 }
