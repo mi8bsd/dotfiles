@@ -2,8 +2,6 @@
   "recommendations": [
     "esbenp.prettier-vscode",
     "rangav.vscode-thunder-client",
-    "dzhavat.bracket-pair-toggler",
-    "bradlc.vscode-tailwindcss",
-    "burkeholland.simple-react-snippets"
+    "bradlc.vscode-tailwindcss"
   ]
 }
