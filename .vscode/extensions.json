@@ -2,6 +2,5 @@
   "recommendations": [
     "esbenp.prettier-vscode",
     "rangav.vscode-thunder-client",
-    "bradlc.vscode-tailwindcss"
   ]
 }
