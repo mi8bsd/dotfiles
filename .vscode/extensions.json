@@ -1,9 +1,0 @@
-{
-  "recommendations": [
-    "esbenp.prettier-vscode",
-    "rangav.vscode-thunder-client",
-    "dzhavat.bracket-pair-toggler",
-    "mikestead.dotenv",
-    "burkeholland.simple-react-snippets"
-  ]
-}

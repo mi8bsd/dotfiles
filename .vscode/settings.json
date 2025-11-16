@@ -1,8 +1,0 @@
-{
-  "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.fontFamily": "'CaskaydiaMono Nerd Font Mono'",
-  "editor.fontSize": 16,
-  "editor.lineHeight": 2,
-  "workbench.colorTheme": "Solarized Light"
-}
