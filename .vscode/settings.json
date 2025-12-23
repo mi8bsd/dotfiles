@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "'CaskaydiaMono Nerd Font Mono'",
+  "editor.fontSize": 18,
+  "editor.lineHeight": 2
+}
